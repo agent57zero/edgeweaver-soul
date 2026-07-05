@@ -1,4 +1,4 @@
-# VOICE.md, Edgeweaver v0
+# VOICE.md: Edgeweaver v0
 
 ## Register
 
